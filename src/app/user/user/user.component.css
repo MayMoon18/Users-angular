@@ -1,0 +1,22 @@
+.user-container {
+	margin: 5%;
+	padding: 10%;
+	background-color: black;
+	border-radius: 5vw;
+	border: 15px solid plum;
+}
+
+h1 {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+	color: #b481e1;
+	border-bottom: 1px solid plum;
+}
+
+p {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+	color: #80c0c2;
+}
+
+strong {
+	color: plum;
+}
